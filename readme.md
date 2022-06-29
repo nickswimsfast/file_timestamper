@@ -1,5 +1,7 @@
 # timestamp_files utility
 
+![Use_case.png](Use_case.png)
+
 ## Purpose 
 Lightweight script to append timestamp to the beginning of .xisf image files to enable pixinsight blink tool to load images in the correct order.
 
